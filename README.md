@@ -6,8 +6,8 @@
 4. install macchanger
  
 Ready?<br>
-1. go to referral link and input randon email account
-2. download the file(x64) 
-3. download my git file 
-4. run dbhax.sh
+1. go to referral link and input randon email account<br>
+2. download the file(x64)<br> 
+3. download my git file<br> 
+4. run dbhax.sh<br
 5. repeat 2 times get 1GB and 20 times get 10GB and 40 times get 20GB
