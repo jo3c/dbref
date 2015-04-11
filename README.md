@@ -5,7 +5,7 @@
 3. download script dbhax.sh 
 4. install macchanger
  
-Ready?
+Ready?<br>
 1. go to referral link and input randon email account
 2. download the file(x64) 
 3. download my git file 
