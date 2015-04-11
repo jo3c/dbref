@@ -1,5 +1,5 @@
-# dbref
-Dropbox Ref H@x on Linux
+# Dropbox Referral Hax<br>  
+
 1. Get the referral link from your Dbox account 
 2. https://dl-web.dropbox.com/u/17/dropbox-lnx.x86_64-3.4.3.tar.gz
 3. download script dbhax.sh 
